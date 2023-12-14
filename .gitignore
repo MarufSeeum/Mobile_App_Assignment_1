@@ -1,0 +1,3 @@
+# Project exclude paths
+/todo app/.dart_tool/
+/todo app/build/
